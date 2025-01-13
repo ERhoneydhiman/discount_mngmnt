@@ -115,7 +115,7 @@ http://localhost:8080/product/SSW667
 
 - Responce Body Example
 
-```sh
+```
     {
         "id": 3,
         "productId": "SSW667",
